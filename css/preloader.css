@@ -5,15 +5,15 @@
 }
 
 /* Preloader */
-#preloader {
+/*#preloader {
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #363942; /* preloader background color */
-    z-index: 99; /* makes sure it stays on top */
-}
+    background-color: #363942; 
+    z-index: 99; 
+}*/
 
 #status {
     color: #fff;
